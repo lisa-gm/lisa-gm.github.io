@@ -11,7 +11,7 @@ author_profile: true
 
 - V. Maillou, L. Gaedke-Merzhaeuser, AN Ziogas, O. Schenk, M. Luisier. Serinv: “A Scalable Library for the Selected Inversion of Block-Tridiagonal with Arrowhead Matrices”. arXiv preprint. March 2025. [arxiv](https://arxiv.org/abs/2503.17528)
 
-L. Gaedke-Merzhäuser, A. Kopaničáková, R. Krause, “Multilevel minimization for deep residual networks”. ESAIM: ProcS Volume 71, August 2021 [doi.org/10.1051/proc/202171131](https://doi.org/10.1051/proc/202171131)
+- L. Gaedke-Merzhäuser, A. Kopaničáková, R. Krause, “Multilevel minimization for deep residual networks”. ESAIM: ProcS Volume 71, August 2021 [doi.org/10.1051/proc/202171131](https://doi.org/10.1051/proc/202171131)
 
 ### Journal Articles 
 
@@ -33,5 +33,5 @@ C. Zurita, L. Gaedke-Merzhäuser, V. Maillou, O. Schenk. "GPU-Accelerated Matrix
 
 ### Thesis 
 
-- L. Gaedke-Merzhäuser. "A high-performance computing approach to approximate Bayesian inference." (2024). [doi] (https://sonar.ch/global/documents/328886)
+- L. Gaedke-Merzhäuser. "A high-performance computing approach to approximate Bayesian inference." (2024). [link](https://sonar.ch/global/documents/328886)
 
