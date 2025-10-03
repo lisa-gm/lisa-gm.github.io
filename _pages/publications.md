@@ -26,7 +26,7 @@ author_profile: true
 
 ### Selected Posters
 
-C. Zurita, L. Gaedke-Merzhäuser, V. Maillou, O. Schenk. "GPU-Accelerated Matrix Decomposition and Selected Inversion for Banded Arrowhead Matrices." PASC Poster 2025 [link](https://pasc25.pasc-conference.org/presentation/?id=pos146&sess=sess149) (Best Poster Award)
+- C. Zurita, L. Gaedke-Merzhäuser, V. Maillou, O. Schenk. "GPU-Accelerated Matrix Decomposition and Selected Inversion for Banded Arrowhead Matrices." PASC Poster 2025 [link](https://pasc25.pasc-conference.org/presentation/?id=pos146&sess=sess149) (Best Poster Award)
 
 
 - L. Gaedke-Merzhäuser, V. Maillou, AN Ziogas, M. Luisier, O. Schenk. "Fast and Scalable Algorithms for Selected Matrix Inversions" PASC Poster 2024, [link](https://pasc24.pasc-conference.org/presentation/?id=pos105&sess=sess156) (Best Poster Award)
