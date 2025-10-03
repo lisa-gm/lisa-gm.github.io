@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github_lisa.jpg"
   name             : "Lisa Gaedke-Merzhäuser"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "King Abdullah University of Science and Technology"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Thuwal, Saudi Arabia"
+  employer         : "KAUST"
   uri              : # URL
   email            : "lisagaedke@gmail.com" 
 
