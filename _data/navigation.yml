@@ -14,8 +14,14 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Software"
+    url: /software/
+
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Grants"
+    url: /grants/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -23,11 +29,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
