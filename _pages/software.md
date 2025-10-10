@@ -5,21 +5,21 @@ permalink: /software/
 author_profile: true
 ---
 
-### DALIA
+## DALIA
 
-DALIA is a probabilistic programming framework for Bayesian statistical learning. It is based on the methodology of integrated nested Laplace approximations (INLA) and applicable to latent Gaussian models. The Python-based framework supports distributed memory parallelism and GPU-acceleration. In DALIA we aim to combine 
+DALIA is a probabilistic programming framework for Bayesian statistical learning. It is based on the methodology of integrated nested Laplace approximations (INLA) and applicable to latent Gaussian models. The Python-based framework supports distributed memory parallelism and GPU-acceleration. 
 
 [Link to the Github](https://github.com/dalia-project/DALIA).
 
 
-### Serinv
+## Serinv
 
 Serinv is a selected solver library for structured sparse matrices. It is one of the computational backends of DALIA. Serinv contains various routines for the decomposition, selected inversion and solve of linear systems of equations. It is Python-based, contains shared and distributed memory algorithms and offers GPU backends.
   
 [Link to the Github](https://github.com/vincent-maillou/serinv).
 
 
-### $\text{INLA}_\text{DIST}$
+##  <h2>\(\text{INLA}_\text{DIST}\)</h2>
 
 $\text{INLA}_\text{DIST}$ provides a scalable implementation the INLA methodology focusing on spatial and spatio-temporal modeling. It leverages the stochastic partial differential equations (SPDE) approach to provide an efficient framework for performing inference, leveraging sparse representations of the underlying processes. 
 
