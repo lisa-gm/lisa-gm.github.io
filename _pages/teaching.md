@@ -10,14 +10,14 @@ author_profile: true
 
 ### Bachelor and Master Thesis Co-Supervision
 
-_ Michal Sudwoj, "Bayesian inference for 4D spatio-temporal models using Integrated nested Laplace Approximations", ETH Zurich, 2023.
+- Michal Sudwoj, "Bayesian inference for 4D spatio-temporal models using Integrated nested Laplace Approximations", ETH Zurich, 2023.
 
 - G. De Vita, "The Versatility of PageRank", USI.
 
 ### Semester Projects Co-Supervision
 
 - C. Lopez Zurita, "GPU-Accelerated Matrix Decomposition and Selected Inversion for Banded Arrowhead Matrices", ETH Zurich, 2025, [Poster](https://pasc25.pasc-conference.org/presentation/?id=pos146&sess=sess149) at PASC'25, (Best Poster Award).
-
+  
 - G.R. Pollak, “GPU accelerated next generation approximate Bayesian inference using R-INLA”, ETH Zurich, 2022.
 
 
