@@ -5,7 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Talks and Presentations
+### Selected Talks and Presentations
+
+- "First DALIA Developer Workshop", Organizer and Speaker. September 2025, Zurich, Switzerland. [D-ITET Blog Post](https://nano-tcad.ee.ethz.ch/news/nano-tcad-news/2025/10/the-first-dalia-developer-workshop-just-took-place-at-iis.html)
 
 - "Implementing INLA - Past, Present and Future", Panel discussion chair. May 2025, INLA Workshop, Glasgow, UK. [Abstract](https://inla-workshop.github.io/INLA-PastPresentFuture/panel.html)
 
@@ -17,7 +19,6 @@ author_profile: true
 - "Sparse Algorithms for Large-Scale Bayesian Inference Problems", March 2025, SIAM Conference on Parallel Processing for Scientific Computing (PP'24). Baltimore, US.
 [Abstract](
 https://meetings.siam.org/sess/dsp_talk.cfm?p=132719)
-
 
 - “A High-Performance Computing Perspective to Spatio-Temporal Bayesian Modeling”, Sep 2023, Seminar Talk, Oak Ridge National Laboratory (ORNL), Oakridge, TN, USA
 
