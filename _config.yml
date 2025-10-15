@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "github_lisa.jpg"
-  name             : "Lisa Gaedke-Merzhäuser"
+  name             : #"Lisa Gaedke-Merzhäuser"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Thuwal, Saudi Arabia"

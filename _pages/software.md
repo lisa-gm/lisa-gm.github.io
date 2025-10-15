@@ -19,14 +19,14 @@ Serinv is a selected solver library for structured sparse matrices. It is one of
 [Link to the Github](https://github.com/vincent-maillou/serinv).
 
 
-##  <h2>\(\text{INLA}_\text{DIST}\)</h2>
+## INLA_DIST
 
 $\text{INLA}_\text{DIST}$ provides a scalable implementation the INLA methodology focusing on spatial and spatio-temporal modeling. It leverages the stochastic partial differential equations (SPDE) approach to provide an efficient framework for performing inference, leveraging sparse representations of the underlying processes. 
 
 [Github](https://github.com/lisa-gm/INLA_DIST)
 
 
-### Sparse Quadratic Inverse Covariance Matrix Estimation (SQUIC)
+## Sparse Quadratic Inverse Covariance Matrix Estimation (SQUIC)
 
 SQUIC is a package for large-scale sparse precision matrix estimation. It utilizes a second order method for solving the $\ell_1$-regularized maximum likelihood problem. The repository offers R and Python interfaces for Mac OS and Linux while the core library is written in C++ and parallelized using OpenMP.
 

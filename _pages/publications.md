@@ -26,6 +26,9 @@ author_profile: true
 
 ### Selected Posters
 
+- V. Maillou, AN. Ziogas1, O. Schenk, M. Luisier, H. Rue, L. Gaedke-Merzhäuser. "DALIA: A Novel Framework to Perform Large Scale Bayesian Modeling." May 2025, INLA Workshop, Glasgow, UK. [Link](https://inla-workshop.github.io/INLA-PastPresentFuture/programme-and-abstracts.html) (Best Poster Award)
+
+
 - C. Zurita, L. Gaedke-Merzhäuser, V. Maillou, O. Schenk. "GPU-Accelerated Matrix Decomposition and Selected Inversion for Banded Arrowhead Matrices." PASC Poster 2025 [link](https://pasc25.pasc-conference.org/presentation/?id=pos146&sess=sess149) (Best Poster Award)
 
 
